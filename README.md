@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matahariramadhan
-- 👀 I’m interested in MERN Stack Development 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React Js, Node Js, Express, MongoDB, Python, Django, & Angular
-- 💞️ I’m looking to collaborate on Ecommerce Project
+- 👀 I’m interested in Python, Javascript, PHP Full-Stack Development 
+- 🌱 I’m currently learning Python, Django, PHP, Laravel.
+- 💞️ I’m looking to collaborate on Any Project
 - 📫 How to reach me ramadhan.matahari24@gmail.com
 
 <!---
