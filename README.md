@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @matahariramadhan
-- 👀 I’m interested in Go, Python, Javascript, PHP & Full-Stack Development 
+- 👀 I’m interested in Go, Python, Javascript, PHP
 - 🌱 I’m currently learning Go, Gin, Python, Django, PHP, Laravel.
 - 💞️ I’m looking to collaborate on Any Project
-- 📫 How to reach me ramadhan.matahari24@gmail.com
+- 📫 How to reach me iam@matahariramadhan.me
 
 <!---
 matahariramadhan/matahariramadhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
